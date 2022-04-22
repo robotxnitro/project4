@@ -1,0 +1,48 @@
+
+    *{
+        box-sizing: border-box;
+    }
+    #container{
+    
+        align-items: center;
+        padding-left: 300px;
+        width: 1000px;
+       
+        
+    }
+    .textbox{
+        background-color: rgb(23, 5, 46);
+        font-family:  sans-serif;
+        width: 600px;
+        text-align: center;
+        color: aliceblue;
+        
+        
+    }
+
+
+    .slider{
+        width: 1250px;
+        padding-left: 150px;
+        height: 50px;
+    }
+    #knight{
+        width: 50vw;
+        height: 100%;
+        margin-bottom: 100px;
+      
+    }
+
+     
+
+
+    #red{
+        width:300px;
+        
+    }
+    #green{
+        width:300px;
+    }
+    #blue{
+        width:300px;
+    }
